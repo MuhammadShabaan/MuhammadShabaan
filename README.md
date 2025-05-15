@@ -26,7 +26,7 @@ I have a strong passion for creating efficient, scalable, and modern software so
 -   Specialized in building modern, responsive, and high-performance applications.
 -   Ensured client satisfaction through clear communication and quality results.
 
--   **Upwork Profile:** [muhammadshabaan](https://www.upwork.com/freelancers/muhammadshabaan)
+-   **Upwork Profile:** [muhammadshabaan](https://www.upwork.com/freelancers/~01c2d79c1d81d50dab)
 
 ---
 
@@ -35,9 +35,6 @@ I have a strong passion for creating efficient, scalable, and modern software so
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
 -   **Email:** [shabaaniftikhar@gmail.com](mailto:shabaaniftikhar@gmail.com)
--   **Portfolio:** [me.toinfinite.dev](https://www.me.toinfinite.dev)
--   **LinkedIn:** [muhammadshabaan](https://www.linkedin.com/in/muhammadshabaan)
+-   **LinkedIn:** [muhammadshabaan](www.linkedin.com/in/muhammad-shabaan-639612165)
 
 ---
-
-Thank you for visiting my GitHub profile!
