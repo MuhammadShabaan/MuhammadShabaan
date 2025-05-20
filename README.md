@@ -20,13 +20,10 @@ I have a strong passion for creating efficient, scalable, and modern software so
 
 ## 💼 Professional Experience
 
-**Freelance Full Stack Developer**
-
 -   Successfully delivered multiple projects focused on web, mobile, and AI-powered solutions.
 -   Specialized in building modern, responsive, and high-performance applications.
 -   Ensured client satisfaction through clear communication and quality results.
 
--   **Upwork Profile:** [muhammadshabaan](https://www.upwork.com/freelancers/~01c2d79c1d81d50dab)
 
 ---
 
