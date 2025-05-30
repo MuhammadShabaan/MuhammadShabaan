@@ -32,6 +32,6 @@ I have a strong passion for creating efficient, scalable, and modern software so
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
 -   **Email:** [shabaaniftikhar@gmail.com](mailto:shabaaniftikhar@gmail.com)
--   **LinkedIn:** [muhammadshabaan](https://www.linkedin.com/in/muhammad-shabaan-639612165)
+-   **LinkedIn:** <a href="https://www.linkedin.com/in/muhammad-shabaan-639612165" target="_blank" rel="noopener noreferrer">muhammadshabaan</a>
 
 ---
